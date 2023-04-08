@@ -42,7 +42,7 @@ a{
     padding: 10% 15% 27% 10% ;
 }
 .sixth{
-    background-image: url("/images/dots.png");
+    background-image: url("images/dots.png");
    
     height: 1000px;
     
@@ -61,7 +61,7 @@ a{
     margin: 15rem 12rem 12rem 14rem ;
 }
 .seventh{
-    background-image: url("/images/bdDots.png");
+    background-image: url("images/bdDots.png");
     background-size: cover;
     height: 1000px;
     background-position: center;
