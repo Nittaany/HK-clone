@@ -1,6 +1,6 @@
 # 🌍 Humankind Clone 🚀
 
-A **frontend clone** of the [Humankind](https://www.humankind.art) website, built using **HTML, CSS, and JS** as part of my learning journey. 
+A **frontend clone** of the [Humankind](https://www.humankind.art) website, built using **HTML & CSS** as part of my learning journey. 
 
 A simple **UI clone** showcasing structured layouts, styling, and basic interactivity. While the content may differ slightly, the goal was to practice front-end development and improve my skills.
 
@@ -12,15 +12,6 @@ A simple **UI clone** showcasing structured layouts, styling, and basic interact
 
 
 ---
-
-## 🎨 Tech Stack
-
-- **HTML** – Page structure
-- **CSS** – Styling & animations
-- **JavaScript** – Basic interactivity
-
----
-
 
 ## 📦 Setup
 
